@@ -1,20 +1,20 @@
-# Insert Repository Name Here
+# MM Best Practice
 <img src="/thumbnail.png" width="200">
 
 ## Description
-Insert repository description here. Please ensure that a prospective user is able to clearly understand the purpose of this repository from this description.
+This repository will guide you through the process of creating a new repository on GitHub using MM Best Practice guide.
 
 ## Repository Ownership
-* **Practice**: INSERT HERE
-* **Sector**: - INSERT HERE
-* **Original Author(s)**: - INSERT HERE
-* **Contact Details for Current Repository Owner(s)**: - INSERT HERE
+* **Practice**: All
+* **Sector**: All
+* **Original Author(s)**: name surname
+* **Contact Details for Current Repository Owner(s)**: name.surname@mottmac.com
 ## Installation Instructions
-In order to successfully run the code in this respository, it is recommended that you create a virtual environment and install the required packages from the requirements.txt file provided. 
+Download and install GitHub Desktop to clone a repository from GitHub
 
 ## Running the Code
-Insert instructions on how to run the code here.
+
 
 ```
-
+Follow the instructions from the video located in docs folder of this repository
 ```
