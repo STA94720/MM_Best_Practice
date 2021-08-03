@@ -1,5 +1,5 @@
 # MM Best Practice
-<img src="/new_image.png" width="400">
+<img src="/new_image.png" width="200">
 
 ## Description
 This repository will guide you through the process of creating a new repository on GitHub using MM Best Practice guide.
