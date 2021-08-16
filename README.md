@@ -1,4 +1,5 @@
 # MM Best Practice
+
 <img src="/new_image.png" width="200">
 
 ## Description
