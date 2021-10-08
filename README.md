@@ -11,7 +11,7 @@ This repository will guide you through the process of creating a new repository 
 * **Original Author(s)**: name surname
 * **Contact Details for Current Repository Owner(s)**: name.surname@mottmac.com
 ## Installation Instructions
-Download and install GitHub Desktop to clone a repository from GitHub
+Download and install [GitHub Desktop](https://desktop.github.com/) to clone a repository from GitHub
 
 ## Running the Code
 
